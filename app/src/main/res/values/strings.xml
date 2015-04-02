@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment 03</string>
+
+    <string name="text">TEXT</string>
+    <string name="action_settings">Settings</string>
+
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+</resources>
